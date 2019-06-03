@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+body {
+    background-image: url("images/background.jpg");
+}
+
+h1 {
+	color: red;
+	background-color: white;
+	font-family: 'Arial Black', sans-serif;
+	text-align: center;
+	font-size: 2rem;
+	padding-top: 2%;
+	width: 70%;
+	margin: auto;
+	margin-top: 2%;
+}
+
+p {
+	color: black;
+	font-weight: bold;
+	background-color: white;
+	width: 50%;
+	font-family: 'Arial Regular', sans-serif;
+	text-align: center;
+	font-size: 1rem;
+	width: 70%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin: auto;
+	margin-top: 2%;
+}
+
+#list {
+	margin-top: 0%;
+	font-weight: normal;
+	padding-top: 0%;
+	text-align: center;
+}
